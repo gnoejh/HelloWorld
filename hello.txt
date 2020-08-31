@@ -1,3 +1,7 @@
 1st
 2nd
+<<<<<<< HEAD
 3rd
+=======
+branch1
+>>>>>>> remotes/origin/branch1
